@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **iprajwalreddy@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/cstQU](https://shorturl.at/cstQU)
+- 📄 Know about my experiences [https://shorturl.at/ims58](https://shorturl.at/ims58)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
