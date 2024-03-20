@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sai Prajwal Reddy</h1>
-<h3 align="center">Data Scientist & Deep Learning Engineer | Masters from IU | Expertise in ML/DL Models | Proven Impact in Segmentation & Forecasting</h3>
+<h3 align="center">Pursuing Ph.D. in Intelligent Systems Engineering - Neuroengineering | ML/DL model expert | Driving innovation in Medical AI.</h3>
 
-- 🔭 I’m currently working on [3D Brain MRI Segmentation](https://github.com/pjsjongsung/EVAC)
-
-- 🌱 I’m currently learning **AWS ML**
+- 🔭 I’m currently working on [DIPY](https://github.com/dipy/dipy)
 
 - 👨‍💻 All of my projects are available at [https://github.com/iprajwalreddy](https://github.com/iprajwalreddy)
 
