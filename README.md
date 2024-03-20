@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/iprajwalreddy](https://github.com/iprajwalreddy)
 
-- 💬 Ask me about **Deep Learning, Machine Learning**
+- 💬 Ask me about **Deep Learning, Machine Learning, DMRIs**
 
 - 📫 How to reach me **iprajwalreddy@gmail.com**
 
